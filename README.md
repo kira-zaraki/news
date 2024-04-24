@@ -12,7 +12,7 @@ Mini CRUD news
 - Clone les projet dans votre racine ou extracte le fichier zip
 
 ## INSTALLATION BACK
-- Accéder au
+- Accéder au projet
 - Commencé par faire un petit `php artisan cache:clear`
 - Après `composer install`
 - Dans le fichier .env configure les variables suite au variable local
